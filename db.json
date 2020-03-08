@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "plantName": "Чистоустовые",
+      "plantsDescription": "семейство папоротников одноимённого монотипного порядка",
+      "domainPlant": "Эукариоты",
+      "plantDepartment": "Папоротниковидные",
+      "plantClass": "Двудольные",
+      "plantOrder": "Астроцветные",
+      "plantFamily": "Астровые",
+      "plantKind": "Гербера",
+      "plantBelarus": "Да"
+    },
+    {
+      "plantName": "Марсилиевые",
+      "plantsDescription": "семейство папоротников порядка Сальвиниевые",
+      "domainPlant": "Эукариоты",
+      "plantDepartment": "Папоротниковидные",
+      "plantClass": "Двудольные",
+      "plantOrder": "Астроцветные",
+      "plantFamily": "Астровые",
+      "plantKind": "Гербера",
+      "plantBelarus": "Да"
+    }
+  ]
+}
